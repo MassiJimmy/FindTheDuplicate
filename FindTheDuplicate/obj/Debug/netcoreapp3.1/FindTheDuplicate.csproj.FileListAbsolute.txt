@@ -1,0 +1,13 @@
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\bin\Debug\netcoreapp3.1\FindTheDuplicate.exe
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\bin\Debug\netcoreapp3.1\FindTheDuplicate.deps.json
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\bin\Debug\netcoreapp3.1\FindTheDuplicate.runtimeconfig.json
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\bin\Debug\netcoreapp3.1\FindTheDuplicate.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\bin\Debug\netcoreapp3.1\FindTheDuplicate.dll
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\bin\Debug\netcoreapp3.1\FindTheDuplicate.pdb
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.csprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.dll
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.pdb
+C:\Users\jimmy\source\repos\FindTheDuplicate\FindTheDuplicate\obj\Debug\netcoreapp3.1\FindTheDuplicate.genruntimeconfig.cache
